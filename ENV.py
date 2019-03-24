@@ -1,3 +1,7 @@
+# @auther: 
+#   ZiqingYang - yangziqing@pku.edu.cn
+#   YuxiXie - sigridcc@pku.edu.cn
+
 import logging
 import random
 import numpy as np
