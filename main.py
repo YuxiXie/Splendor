@@ -1,6 +1,5 @@
 from DQN import DQN
 from ENV import ENV
-import pickle
 
 
 # Hyper Parameters
@@ -44,10 +43,10 @@ def main():
 			ave_reward = total_reward / TEST
 			if TEST < 1024:
 				TEST *= 2
-			print('episode: ' + str(episode) + 'Evaluation Average Reward:' + str(ave_reward) + ' Loss:' + str(agent.cost))
+			print('episode: ' + str(episode) + '\tEvaluation Average Reward: ' + str(ave_reward))
 
 
-			if ave_reward >= 200:
+			if ave_reward >= 100:
 				break
 
 
