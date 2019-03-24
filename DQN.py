@@ -1,3 +1,5 @@
+# @auther: YuxiXie - sigridcc@pku.edu.cn
+
 import tensorflow as tf 
 import numpy as np 
 import random
