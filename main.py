@@ -12,11 +12,9 @@ def main():
 	# initialize OpenAI Gym env and dqn agent
 	env = ENV()
 	agent = DQN(env)
-
 	for episode in range(EPISODE):
 		# initialize task
 		state = env.reset()
-
 		# train
 		for step in range(STEP):
 			# e-greedy action for train
@@ -26,7 +24,6 @@ def main():
 			state = next_state
 			if done:
 			    break
-
 		# test every 100 episodes
 		if episode % 100 == 0:
 			total_reward = 0
@@ -44,8 +41,6 @@ def main():
 			if TEST < 1024:
 				TEST *= 2
 			print('episode: ' + str(episode) + '\tEvaluation Average Reward: ' + str(ave_reward))
-
-
 			if ave_reward >= 100:
 				break
 
