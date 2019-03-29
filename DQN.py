@@ -1,4 +1,4 @@
-# @auther: YuxiXie - sigridcc@pku.edu.cn
+# @author: YuxiXie - sigridcc@pku.edu.cn
 
 import tensorflow as tf 
 import numpy as np 
