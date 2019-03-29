@@ -1,4 +1,4 @@
-# @auther: 
+# @authors: 
 #   ZiqingYang - yangziqing@pku.edu.cn
 #   YuxiXie - sigridcc@pku.edu.cn
 
