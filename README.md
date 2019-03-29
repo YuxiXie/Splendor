@@ -14,4 +14,4 @@ AI designation for the game of Splendor
   
   III. fundamental class:   
       fundamental elements in the game    
-       @auther: zhangge9194@pku.edu.cn   https://github.com/AshleyZG/splendor
+       @author: zhangge9194@pku.edu.cn   https://github.com/AshleyZG/splendor
