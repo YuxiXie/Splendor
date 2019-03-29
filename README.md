@@ -1,8 +1,8 @@
 # Splendor
 AI designation for the game of Splendor
 
-@auther: YuxiXie (sigridcc@pku.edu.cn)
-         ZiqingYang (yangziqing@pku.edu.cn)
+@authors: YuxiXie (sigridcc@pku.edu.cn)
+          ZiqingYang (yangziqing@pku.edu.cn)
 
 
 
