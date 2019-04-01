@@ -6,12 +6,12 @@ AI designation for the game of Splendor
 
 
 
-  I. DQN:     
+  * DQN:     
       DQN class for traing our agents
   
-  II. ENV:     
+  * ENV:     
       ENV calss to build the game environment of Splendor
   
-  III. fundamental class:   
+  * fundamental class:   
       fundamental elements in the game    
        @author: zhangge9194@pku.edu.cn   https://github.com/AshleyZG/splendor
